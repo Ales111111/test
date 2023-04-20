@@ -1,0 +1,17 @@
+{
+  "author": "Acid7",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite --host --open",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.128.0",
+    "tweakpane": "^3.0.2"
+  },
+  "devDependencies": {
+    "stylus": "^0.54.8",
+    "vite": "^2.3.3"
+  }
+}
